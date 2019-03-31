@@ -3,7 +3,7 @@ import java.util.List;
 
 //holds the cards and knows what the card value is
 
-public class Hand {
+public class Hand   {
 
 	private static final String[] RANKS =
 		{"ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king"};
@@ -79,7 +79,7 @@ public class Hand {
 		return false;
 	}
 	
-
+	 
 	
 }
 	

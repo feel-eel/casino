@@ -59,7 +59,8 @@ public class Deck extends ArrayList<Card> {
 	public String toString() {
 		return "The " + RANKS + "of " + SUITS;
 	}
-
+	
+	
 }
 
 // make an array list for cards for cards w rank
